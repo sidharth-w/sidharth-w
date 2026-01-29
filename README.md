@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm sidharth mangaraj</h1>
-<h3 align="center">I am a aspiring Cybersecurity Analyst from India</h3>
+<h3 align="center">I am aspiring Cybersecurity Analyst from India</h3>
 
 - 💬 Ask me about **burp suit, nmap, wireshark, metasploit**
 
