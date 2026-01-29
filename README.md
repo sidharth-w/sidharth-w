@@ -34,6 +34,38 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 
+## 📌 Projects
+
+### 🔐 Metasploitable2 Security Lab
+- Performed network scanning and service enumeration on a vulnerable virtual machine
+- Identified open ports, running services, and potential misconfigurations
+- Practiced basic exploitation in a controlled lab environment
+- Tools used: Nmap, Metasploit, Nikto, Hydra
+
+🔗 Repository: https://github.com/sidharth-w/metasploitable2-lab  
+⚠️ All testing was performed in a legal lab environment for educational purposes only.
+
+---
+
+### 🌐 Web Application Vulnerability Testing
+- Tested deliberately vulnerable web applications hosted locally
+- Identified common vulnerabilities such as SQL Injection and weak authentication
+- Intercepted and analyzed HTTP requests and responses
+- Tools used: Burp Suite, SQLMap
+
+🔗 Repository: https://github.com/sidharth-w/web-vulnerability-testing  
+⚠️ All testing was performed in a legal lab environment for educational purposes only.
+
+---
+
+### 🕵️ Network Traffic Analysis with Wireshark
+- Captured and analyzed network packets in a local lab setup
+- Studied DNS, HTTP, and TCP traffic behavior
+- Identified suspicious patterns and packet flows
+- Tools used: Wireshark
+
+🔗 Repository: https://github.com/sidharth-w/wireshark-network-analysis
+
 
 <!--
 **sidharth-w/sidharth-w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
