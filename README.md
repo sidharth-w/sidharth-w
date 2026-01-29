@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sidharthmangaraj61@gmail.com**
 
-Things i experienced with.
+
 ## 🛠️ Knowledge & Skills
 
 ### 💻 Programming & Scripting
