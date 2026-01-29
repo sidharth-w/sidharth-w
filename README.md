@@ -42,18 +42,7 @@
 - Practiced basic exploitation in a controlled lab environment
 - Tools used: Nmap, Metasploit, Nikto, Hydra
 
-🔗 Repository: https://github.com/sidharth-w/metasploitable2-lab  
-⚠️ All testing was performed in a legal lab environment for educational purposes only.
-
----
-
-### 🌐 Web Application Vulnerability Testing
-- Tested deliberately vulnerable web applications hosted locally
-- Identified common vulnerabilities such as SQL Injection and weak authentication
-- Intercepted and analyzed HTTP requests and responses
-- Tools used: Burp Suite, SQLMap
-
-🔗 Repository: https://github.com/sidharth-w/web-vulnerability-testing  
+🔗 Repository:https://github.com/sidharth-w/nmap-network-scans
 ⚠️ All testing was performed in a legal lab environment for educational purposes only.
 
 ---
